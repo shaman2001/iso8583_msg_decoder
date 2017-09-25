@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE isopackager PUBLIC
+        "-//jPOS/jPOS Generic Packager DTD 1.0//EN"
+        "http://jpos.org/dtd/generic-packager-1.0.dtd">
+
+<!-- ISO 8583:1987 (BINARY) field descriptions for GenericPackager -->
+
+<isopackager>
+    <isofield
+            id="0"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_AMOUNT"/>
+    <isofield
+            id="1"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFA_AMOUNT2003"/>
+    <isofield
+            id="2"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="false"
+            class="org.jpos.iso.IFA_BINARY"/>
+    <isofield
+            id="3"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_BITMAP"/>
+    <isofield
+            id="4"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_FLLCHAR"/>
+    <isofield
+            id="5"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_FLLNUM"/>
+    <isofield
+            id="6"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LBINARY"/>
+    <isofield
+            id="7"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LCHAR"/>
+    <isofield
+            id="8"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLABINARY"/>
+    <isofield
+            id="9"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLBINARY"/>
+    <isofield
+            id="10"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLBNUM"/>
+    <isofield
+            id="11"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLCHAR"/>
+    <isofield
+            id="12"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLABINARY"/>
+    <isofield
+            id="13"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLBINARY"/>
+    <isofield
+            id="14"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLCHAR"/>
+    <isofield
+            id="15"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLBINARY"/>
+    <isofield
+            id="16"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLCHAR"/>
+    <isofield
+            id="17"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLLBINARY"/>
+    <isofield
+            id="18"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLLCHAR"/>
+    <isofield
+            id="19"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLLLBINARY"/>
+    <isofield
+            id="20"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLLLLCHAR"/>
+    <isofield
+            id="21"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_LLLNUM"/>
+    <isofield
+            id="22"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="false"
+            class="org.jpos.iso.IFA_LLNUM"/>
+    <isofield
+            id="23"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_NUMERIC"/>
+    <isofield
+            id="24"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLBINARY"/>
+    <isofield
+            id="25"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLCHAR"/>
+    <isofield
+            id="26"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLBINARY"/>
+    <isofield
+            id="27"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLCHAR"/>
+    <isofield
+            id="28"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLLBINARY"/>
+    <isofield
+            id="29"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLLCHAR"/>
+    <isofield
+            id="30"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLLLBINARY"/>
+    <isofield
+            id="31"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFA_TTLLLLCHAR"/>
+    <isofield
+            id="32"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="false"
+            class="org.jpos.iso.IFA_TTTLLLCHAR"/>
+    <!-- __________________________________________________________________________________________________
+    -->
+    <isofield
+            id="33"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="false"
+            class="org.jpos.iso.IFB_AMOUNT"/>
+    <isofield
+            id="34"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_AMOUNT2003"/>
+    <isofield
+            id="35"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="false"
+            class="org.jpos.iso.IFB_BINARY"/>
+    <isofield
+            id="36"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_BITMAP"/>
+    <isofield
+            id="37"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_FLLLNUM"/>
+    <isofield
+            id="38"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_FLLNUM"/>
+    <isofield
+            id="39"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_NUMERIC"/>
+    <isofield
+            id="40"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_HEX"/>
+    <isofield
+            id="41"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLBINARY"/>
+    <isofield
+            id="42"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLCHAR"/>
+    <isofield
+            id="43"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHBINARY"/>
+    <isofield
+            id="44"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHCHAR"/>
+    <isofield
+            id="45"
+            length="1"
+            name="TTESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHECHAR"/>
+    <isofield
+            id="46"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHEX"/>
+    <isofield
+            id="47"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHFBINARY"/>
+    <isofield
+            id="48"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLHNUM"/>
+    <isofield
+            id="49"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLBINARY"/>
+    <isofield
+            id="50"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLCHAR"/>
+    <isofield
+            id="51"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLHBINARY"/>
+    <isofield
+            id="52"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLHCHAR"/>
+    <isofield
+            id="53"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFB_LLLHECHAR"/>
+    <isofield
+            id="54"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLHNUM"/>
+    <isofield
+            id="55"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLLBINARY"/>
+    <isofield
+            id="56"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLLNUM"/>
+    <isofield
+            id="57"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_LLNUM"/>
+    <isofield
+            id="58"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFB_NUMERIC"/>
+    <!--________________________________________________________________________________________________-->
+    <isofield
+            id="59"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_AMOUNT"/>
+    <isofield
+            id="60"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_BINARY"/>
+    <isofield
+            id="61"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_BITMAP"/>
+    <isofield
+            id="62"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_CHAR"/>
+    <isofield
+            id="63"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_LLBINARY"/>
+    <isofield
+            id="64"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_LLCHAR"/>
+    <isofield
+            id="65"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            class="org.jpos.iso.IFE_LLLBINARY"/>
+    <isofield
+            id="66"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_LLLCHAR"/>
+    <isofield
+            id="67"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_LLLEBINARY"/>
+    <isofield
+            id="68"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_LLLLBINARY"/>
+    <isofield
+            id="69"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_LLLLCHAR"/>
+    <isofield
+            id="70"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_LLNUM"/>
+    <isofield
+            id="71"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_NUMERIC"/>
+    <isofield
+            id="72"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFE_SIGNED_NUMERIC"/>
+    <isofield
+            id="73"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEA_LLCHAR"/>
+    <isofield
+            id="74"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEB_LLLNUM"/>
+    <isofield
+            id="75"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEB_LLNUM"/>
+    <isofield
+            id="76"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEMC_LLCHAR"/>
+    <isofield
+            id="77"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEMC_LLLCHAR"/>
+    <isofield
+            id="78"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEP_LLCHAR"/>
+    <isofield
+            id="79"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEP_LLLBINARY"/>
+    <isofield
+            id="80"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEP_LLLCHAR"/>
+    <isofield
+            id="81"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEPE_LLCHAR"/>
+    <isofield
+            id="82"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFEPE_LLLCHAR"/>
+    <isofield
+            id="83"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFIPM_LLLCHAR"/>
+    <isofield
+            id="84"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFMC_LLBINARY"/>
+    <isofield
+            id="85"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFMC_LLCHAR"/>
+    <isofield
+            id="86"
+            length="1"
+            name="TESTING FIELD PACKAGER"
+            pad="true"
+            class="org.jpos.iso.IFMC_LLLCHAR"/>
+</isopackager>
